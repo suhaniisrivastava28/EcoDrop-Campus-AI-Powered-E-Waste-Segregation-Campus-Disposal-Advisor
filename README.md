@@ -2,6 +2,8 @@
 
 > **EcoDrop Campus transforms university e-waste management through AI hazard scanning, an interactive map of 7 specialized collection bins, and cafeteria Eco-Credit rewards to divert toxic materials and champion responsible consumption (SDG 12).**
 
+🌐 **Live Demo:** [https://ecodrop-campus.vercel.app](https://ecodrop-campus.vercel.app)
+
 ---
 
 ## 🎯 Project Overview
